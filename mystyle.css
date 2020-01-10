@@ -1,0 +1,43 @@
+nav{
+    width: 10;
+    height: 2;
+    background-color: #24783a;
+}
+
+
+a{
+    color: white;
+}
+        
+.container{
+    justify-content: center;
+}
+        
+h1{
+    color: white;
+}
+        
+ul{
+    color: white;
+}
+        
+.btn .btn-primary{
+    background-color: black !important;
+}
+
+.brand_logo_container {
+position: absolute;
+height: 60px;
+width: 60px;
+top: -75px;
+border-radius: 50%;
+background: #60a3bc;
+padding: 10px;
+text-align: center;
+}
+.brand_logo {
+height: 60px;
+width: 60px;
+border-radius: 50%;
+border: 2px solid white;
+}
